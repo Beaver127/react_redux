@@ -1,0 +1,7 @@
+npx create-react-app .
+npm i redux react-redux
+npm i --force react-redux
+npm install -g npm
+npm install react-scripts@latest
+npm i redux-devtools-extension - для остлеживания redux состояния в браузере
+npm i redux-thunk - для асинхронных задач для redux
